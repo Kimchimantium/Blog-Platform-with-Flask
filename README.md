@@ -37,3 +37,4 @@ Contributions to the project are welcome! You can contribute by improving the co
 This project is open source and available under the [MIT License](LICENSE.md).
 # Blog-Platform-with-Flask
 # Blog-Platform-with-Flask
+# Blog-Platform-with-Flask
